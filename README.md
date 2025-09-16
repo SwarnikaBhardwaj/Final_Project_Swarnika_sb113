@@ -1,0 +1,1 @@
+A Django app that helps indecisive viewers pick something to watch. Filter by genre, mood, and length, hit Spin for a suggestion, save to Watchlist, and rate to personalize future spins.
