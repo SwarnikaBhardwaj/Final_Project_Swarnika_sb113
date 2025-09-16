@@ -1,0 +1,14 @@
+Ideas: 1) Netflix Night Roulette (chosen), 2) Campus Dining Roulette, 3) Study Playlist Spin.
+Chosen because: fun demo, small CRUD + randomizer, extendable (TMDb later).
+Risks: sourcing metadata; cold start. Next: seed a small Title dataset.
+
+v1 includes: login, dashboard (spin), core result card, error state.
+Rationale: minimal clicks to Spin; visible CTA. Planned v2: filters as chips, empty-state copy.
+
+GitHub Flow with short-lived feature branches. PRs into main (solo dev self-merges).
+
+Created branch `wireframes-v1`, committed wireframes, opened PR, merged to main with clear message.
+
+startproject: nightroulette; startapp: recommender. Simple names that map to purpose.
+
+PyCharm virtualenv for isolation and reproducibility; easy interpreter management.
